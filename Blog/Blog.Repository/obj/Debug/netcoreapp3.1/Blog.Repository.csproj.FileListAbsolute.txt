@@ -1,0 +1,13 @@
+C:\.net-blog-website\Blog\Blog.Repository\bin\Debug\netcoreapp3.1\Blog.Repository.deps.json
+C:\.net-blog-website\Blog\Blog.Repository\bin\Debug\netcoreapp3.1\Blog.Repository.dll
+C:\.net-blog-website\Blog\Blog.Repository\bin\Debug\netcoreapp3.1\Blog.Repository.pdb
+C:\.net-blog-website\Blog\Blog.Repository\bin\Debug\netcoreapp3.1\Blog.Database.dll
+C:\.net-blog-website\Blog\Blog.Repository\bin\Debug\netcoreapp3.1\Blog.Database.pdb
+C:\.net-blog-website\Blog\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.csproj.AssemblyReference.cache
+C:\.net-blog-website\Blog\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net-blog-website\Blog\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.AssemblyInfoInputs.cache
+C:\.net-blog-website\Blog\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.AssemblyInfo.cs
+C:\.net-blog-website\Blog\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.csproj.CoreCompileInputs.cache
+C:\.net-blog-website\Blog\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.csproj.CopyComplete
+C:\.net-blog-website\Blog\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.dll
+C:\.net-blog-website\Blog\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.pdb

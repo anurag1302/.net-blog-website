@@ -381,3 +381,6 @@ C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\nets
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Blog.Database.dll
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Blog.Database.pdb
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Blog.Repository.dll
+C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Blog.Repository.pdb
+C:\.net-blog-website\Blog\Blog.Web\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
