@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Blog.Database
+build_property.ProjectDir = C:\.net-blog-website\Blog\Blog.Database\

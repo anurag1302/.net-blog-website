@@ -1,0 +1,10 @@
+C:\.net-blog-website\Blog\Blog.Database\bin\Debug\netcoreapp3.1\Blog.Database.deps.json
+C:\.net-blog-website\Blog\Blog.Database\bin\Debug\netcoreapp3.1\Blog.Database.dll
+C:\.net-blog-website\Blog\Blog.Database\bin\Debug\netcoreapp3.1\Blog.Database.pdb
+C:\.net-blog-website\Blog\Blog.Database\obj\Debug\netcoreapp3.1\Blog.Database.csproj.AssemblyReference.cache
+C:\.net-blog-website\Blog\Blog.Database\obj\Debug\netcoreapp3.1\Blog.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net-blog-website\Blog\Blog.Database\obj\Debug\netcoreapp3.1\Blog.Database.AssemblyInfoInputs.cache
+C:\.net-blog-website\Blog\Blog.Database\obj\Debug\netcoreapp3.1\Blog.Database.AssemblyInfo.cs
+C:\.net-blog-website\Blog\Blog.Database\obj\Debug\netcoreapp3.1\Blog.Database.csproj.CoreCompileInputs.cache
+C:\.net-blog-website\Blog\Blog.Database\obj\Debug\netcoreapp3.1\Blog.Database.dll
+C:\.net-blog-website\Blog\Blog.Database\obj\Debug\netcoreapp3.1\Blog.Database.pdb
