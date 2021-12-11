@@ -28,8 +28,20 @@ namespace Blog.Web
             options.UseSqlServer(Configuration["DefaultConnection"],
             x=>x.MigrationsAssembly("Blog.Database")));
 
-            services.AddIdentity<IdentityUser, IdentityRole>()
+            //Option 1 - Password parameters can be re-written using options object on the AddIdentity method
+            services.AddIdentity<IdentityUser, IdentityRole>(options =>
+            {
+                options.Password.RequiredLength = 10;
+                options.Password.RequireLowercase = false;
+            })
                 .AddEntityFrameworkStores<AppDbContext>();
+
+            //Option 2 - IdentityOptions can be used to re-write password parameters.
+            //services.Configure<IdentityOptions>(options =>
+            //{
+            //    options.Password.RequiredLength = 10;
+            //    options.Password.RequireLowercase = false;
+            //});
 
             services.AddTransient<IRepository, PostRepository>();
         }
