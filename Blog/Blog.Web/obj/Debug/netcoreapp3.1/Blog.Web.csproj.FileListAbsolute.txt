@@ -385,3 +385,4 @@ C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\.net-blog-website\Blog\Blog.Web\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
