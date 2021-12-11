@@ -22,8 +22,6 @@ C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNet
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
-C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -102,8 +100,6 @@ C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extens
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
-C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
-C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
@@ -384,3 +380,8 @@ C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrame
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Blog.Repository.dll
 C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Blog.Repository.pdb
 C:\.net-blog-website\Blog\Blog.Web\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\.net-blog-website\Blog\Blog.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll

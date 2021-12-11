@@ -2,6 +2,7 @@ using Blog.Database;
 using Blog.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -26,6 +27,9 @@ namespace Blog.Web
             services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(Configuration["DefaultConnection"],
             x=>x.MigrationsAssembly("Blog.Database")));
+
+            services.AddIdentity<IdentityUser, IdentityRole>()
+                .AddEntityFrameworkStores<AppDbContext>();
 
             services.AddTransient<IRepository, PostRepository>();
         }

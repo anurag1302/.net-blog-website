@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5G6sBx7KMsAVC+hzQmbU/oj30IVdhvI0CAYP1HaOwavkTxSWlf+ZG1qeCD7XS4xJzGX+WWgovzaDEHjE1vgG+Q==",
+  "dgSpecHash": "ihTsS4klTMLqq44+w9wFP6alEPDgTsAPBLUSZPdezi1xXBKT+Sy36T4Bus1MPSXuIO+l5ecoKnlQM0Y2UwnQKg==",
   "success": true,
   "projectFilePath": "C:\\.net-blog-website\\Blog\\Blog.Web\\Blog.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\anurag.sinha\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.21\\microsoft.aspnetcore.cryptography.internal.3.1.21.nupkg.sha512",
+    "C:\\Users\\anurag.sinha\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.21\\microsoft.aspnetcore.cryptography.keyderivation.3.1.21.nupkg.sha512",
+    "C:\\Users\\anurag.sinha\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.21\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.21.nupkg.sha512",
     "C:\\Users\\anurag.sinha\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.18\\microsoft.aspnetcore.mvc.razor.extensions.3.1.18.nupkg.sha512",
     "C:\\Users\\anurag.sinha\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.18\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.18.nupkg.sha512",
     "C:\\Users\\anurag.sinha\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.18\\microsoft.aspnetcore.razor.language.3.1.18.nupkg.sha512",
@@ -30,6 +33,8 @@
     "C:\\Users\\anurag.sinha\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.21\\microsoft.extensions.dependencyinjection.3.1.21.nupkg.sha512",
     "C:\\Users\\anurag.sinha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.21\\microsoft.extensions.dependencyinjection.abstractions.3.1.21.nupkg.sha512",
     "C:\\Users\\anurag.sinha\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.6\\microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "C:\\Users\\anurag.sinha\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.21\\microsoft.extensions.identity.core.3.1.21.nupkg.sha512",
+    "C:\\Users\\anurag.sinha\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.21\\microsoft.extensions.identity.stores.3.1.21.nupkg.sha512",
     "C:\\Users\\anurag.sinha\\.nuget\\packages\\microsoft.extensions.logging\\3.1.21\\microsoft.extensions.logging.3.1.21.nupkg.sha512",
     "C:\\Users\\anurag.sinha\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.21\\microsoft.extensions.logging.abstractions.3.1.21.nupkg.sha512",
     "C:\\Users\\anurag.sinha\\.nuget\\packages\\microsoft.extensions.options\\3.1.21\\microsoft.extensions.options.3.1.21.nupkg.sha512",
