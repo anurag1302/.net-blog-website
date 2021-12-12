@@ -26,13 +26,16 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
-                        @*TODO: Some how the beloe if block always returns to false, investigate it ?*@
-                        @*@if (signManager.IsSignedIn(User))*@
-                        @if(User.Identity.IsAuthenticated)
+
+                        @*TODO: Some how the beloe if block always returns to false, investigate it ?
+                            Solution - app.UseAuthentication() was missing in Configure() method in Startup.cs*@
+
+                        @if (signManager.IsSignedIn(User))
+                        @*@if(User.Identity.IsAuthenticated)*@
                         {
                             <li class="nav-item">
                                 <form method="post" asp-controller="Account" asp-action="Logout">
-                                    <input type="submit" value="Logout @User.Identity.Name" />
+                                    <input type="submit" value="Logout @User.Identity.Name" class="nav-link text-danger" />
                                 </form>
                             </li>
                         }
