@@ -1,8 +1,10 @@
 ﻿using Blog.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Blog.Web.Controllers
 {
+    [Authorize]
     public class BlogController : Controller
     {
         private readonly IRepository _repository;
